@@ -11,7 +11,7 @@
 - ✅ Integration with **Tailwind CSS** supporting **Dark mode** and **_RTL_**.
 - ✅ **Fast and SEO friendly blog** with automatic **RSS feed**, **MDX** support, **Categories & Tags**, **Social Share**, ...
 - ✅ **Image Optimization** (using new **Astro Assets** and **Unpic** for Universal image CDN).
-- ✅ Generation of **project sitemap** based on your routes.
+- ✅ Generation of **project sitemap** based on your routes..
 - ✅ **Open Graph tags** for social media sharing.
 - ✅ **Analytics** built-in Google Analytics, and Splitbee integration..
 
